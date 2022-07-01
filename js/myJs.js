@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "Heluu vợ tương lai :3",
-  text2: "Tớ có điều này muốn hỏi cậu ;<",
-  text3: "Cậu cũng iu tớ có phải hôkk -.- ",
-  text4: "Cậu không trả lời mà thoát ra có nghĩa là cậu mún làm vợ tớ ròii :3",
+  text1: "Chào! Tôi là Minh Quang",
+  text2: "Tôi có điều này muốn hỏi bạn!",
+  text3: "Tôi đẹp trai phải không ae?",
+  text4: "Không trả lời mà thoát ra có nghĩa là G.A.Y",
   text5: "thằng điên mày ảo à?",
-  text6: "iu cậu nhắmm :3",
-  text7: "aww cậu iu tớ vì jz",
-  text8: "gửi cho tớ lí do nkaaa",
-  text9: "Vì cậu dthw, đẹp try vcl ;>>",
-  text10: "ehee cám ơn cậu <33 ^^ Yêu cậu 3000",
-  text11: "Hum nào chị đi ún trà sữa với tớ nkaaa<33 ^^ iu cậu UwU",
-  text12: "Okee bé lunnn <3",
+  text6: "MinhQuang đẹp trai váaa",
+  text7: "aww bạn còn thấy đức tính nào của tôi không?",
+  text8: "gửi cho tôi lí do nhé",
+  text9: "Cậu còn Ga lăng, nam tính, men lỳ",
+  text10: "ảdu cám ơn anh em ❤️",
+  text11: "Nhớ bao tiền vé đi Huế cho tôi nhé=)))",
+  text12: "Okee MinhQuang lunnn <3",
   text13: "code by DarlingMquang/zalo: 0372760208",
 };
 
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.facebook.com/khongaibangemdau7208";
+            window.location = "https://www.facebook.com/quang070208";
           },
         });
       }
