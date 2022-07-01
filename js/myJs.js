@@ -1,17 +1,17 @@
 const textConfig = {
   text1: "Heluu vợ tương lai :3",
-  text2: "Bé có điều này mún hỏi chịi ;<",
-  text3: "Chị cũng iu bé có phải hôkk -.- ",
-  text4: "Chị không trả lời mà thoát ra có nghĩa là chị mún làm vợ bé ròii :3",
+  text2: "Tớ có điều này muốn hỏi cậu ;<",
+  text3: "Cậu cũng iu tớ có phải hôkk -.- ",
+  text4: "Cậu không trả lời mà thoát ra có nghĩa là cậu mún làm vợ tớ ròii :3",
   text5: "thằng điên mày ảo à?",
-  text6: "iu bé nhắmm :3",
-  text7: "aww chị iu bé vì jz",
-  text8: "gửi cho bé lí do nkaaa",
-  text9: "Vì bé dthw, đẹp try vcl ;>>",
-  text10: "ehee cám ơn chị <33 ^^ Yêu iu chị 3000",
-  text11: "Hum nào chị đi ún trà sữa với bé nkaaa<33 ^^ iu chị UwU",
+  text6: "iu cậu nhắmm :3",
+  text7: "aww cậu iu tớ vì jz",
+  text8: "gửi cho tớ lí do nkaaa",
+  text9: "Vì cậu dthw, đẹp try vcl ;>>",
+  text10: "ehee cám ơn cậu <33 ^^ Yêu cậu 3000",
+  text11: "Hum nào chị đi ún trà sữa với tớ nkaaa<33 ^^ iu cậu UwU",
   text12: "Okee bé lunnn <3",
-  text13: "coder by DarlingMquang/zalo: 0382260726",
+  text13: "code by DarlingMquang/zalo: 0372760208",
 };
 
 $(document).ready(function () {
